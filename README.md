@@ -1,4 +1,6 @@
 # todomanager
+CLICK THE lINK BELOW FOR PREVIEW
+https://serene-swirles-085701.netlify.app/#/
 
 ## Project setup
 ```
